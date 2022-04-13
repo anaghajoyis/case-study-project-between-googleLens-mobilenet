@@ -1,0 +1,20 @@
+body{
+    background-color: #ffadad;
+    color: #d00000;
+    text-align: center;
+}
+.test_image_and_result{
+    background-color: #03045e;
+    color: #48cae4;
+    border-style:groove;
+    border-color: #caffbf;
+    box-shadow: 10px 10px 10px black;
+    font-family: 'Carter One', cursive;
+    font-size: 20px;
+    width: 1000px;
+}
+h1{
+    background-color: #caffbf;
+    font-family: 'Ms Madi', cursive;
+    font-size: 70px ;
+}
